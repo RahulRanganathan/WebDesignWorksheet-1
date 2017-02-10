@@ -1,0 +1,18 @@
+body{
+	background-color: green;
+	color: #FFFFFF;
+}
+
+.link{
+	color: yellow;
+}
+
+#green{
+	color:white;
+	font-family: courier;
+}
+
+#center{
+	text-align: center;
+
+}
