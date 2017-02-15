@@ -6,5 +6,6 @@
 <a href="https://RahulRanganathan.github.io/WebDesignWorksheet-1/worksheet-3.html">  Form to apply for a job</a> <br>
 <a href="https://RahulRanganathan.github.io/WebDesignWorksheet-1/worksheet-5.html">  Webpage using Tables </a> <br>
 <a href="https://RahulRanganathan.github.io/WebDesignWorksheet-1/worksheet-6.html">  Webpage using Forms </a> <br>
+<a href="https://RahulRanganathan.github.io/WebDesignWorksheet-1/worksheet-7.html">  Job Application Form </a> <br>
 
 <h2>Thankyou</h2>
